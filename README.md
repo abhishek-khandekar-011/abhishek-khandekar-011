@@ -3,7 +3,7 @@
 
 ---
 
-🎓 I’m currently pursuing **Computer Engineering** at **Nutan Maharashtra Institute of Engineering and Technology**.
+🎓 I’m currently pursuing **Computer Engineering** at **Nutan Maharashtra Institute of Engineering and Technology, Pune**.
 
 🌱 I’m in the learning phase, focusing on:
 - Strengthening my programming foundation
