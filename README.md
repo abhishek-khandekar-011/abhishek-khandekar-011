@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhishek Khandekar</h1>
+<h3 align="center">Aspiring Computer Engineer | Tech Explorer</h3>
 
-<!--
-**abhishek-khandekar-011/abhishek-khandekar-011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 I’m currently pursuing **Computer Engineering** at **Nutan Maharashtra Institute of Engineering and Technology**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m in the learning phase, focusing on:
+- Strengthening my programming foundation
+- Exploring **Web Development**
+- Building hands-on projects to apply what I learn
+
+---
+
+### 💡 Passionate About & Exploring
+
+I'm deeply curious and actively exploring concepts in:
+
+- 🔌 **Internet of Things (IoT)**
+- 🧠 **Artificial Intelligence (AI)**
+- 🧬 **Machine Learning (ML)**
+- 🤖 **Generative AI (GenAI)**
+- 📊 **Data Science**
+- 📐 **Mathematics**
+- 📚 **Data Structures & Algorithms (DSA)**
+
+I enjoy learning how these technologies shape the future and love connecting them through code and creativity.
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekKhandekar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekKhandekar&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:khandekarabhishek11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-khandekar-182496335" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+---
+
+> “The best way to learn is to build, break, and rebuild.”
