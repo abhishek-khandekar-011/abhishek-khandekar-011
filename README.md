@@ -10,6 +10,10 @@
 - Exploring **Web Development**
 - Building hands-on projects to apply what I learn
 
+🤝 I’m always eager to connect with experienced developers, mentors, and tech enthusiasts to grow and collaborate.
+
+📫 Reach out to me at: **khandekarabhishek11@gmail.com**
+
 ---
 
 ### 💡 Passionate About & Exploring
