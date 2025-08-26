@@ -54,15 +54,6 @@ I enjoy learning how these technologies shape the future and love connecting the
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekKhandekar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekKhandekar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
