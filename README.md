@@ -52,17 +52,26 @@ I enjoy learning how these technologies shape the future and love connecting the
   </a>
 </p>
 
----
+
+<p align="center">
+  <!-- Total commits, stars, etc. -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+
 ### GitHub Stats:
+<p align="center">
+  <!-- Most used languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight)
-
+<p align="center">
+  <!-- Daily streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 
+---
 ### 🌐 Connect With Me
 
 <p align="left">
