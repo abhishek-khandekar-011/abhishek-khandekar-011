@@ -53,6 +53,14 @@ I enjoy learning how these technologies shape the future and love connecting the
 </p>
 
 ---
+### GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight)
+
 
 
 ### 🌐 Connect With Me
